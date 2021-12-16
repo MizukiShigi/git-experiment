@@ -1,8 +1,2 @@
 feature
 feature change2
-conflict用
-
-conflict用
-feature change3
-feature change4
-feature change5
